@@ -4,7 +4,8 @@
   "description": "Backend para pagina 'GameShop', con db en mongo",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon ."
+    "start": "node index.js",
+    "dev": "nodemon index.js"
   },
   "author": "Moyano Matias",
   "license": "ISC",
